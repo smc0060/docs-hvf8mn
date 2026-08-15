@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-eh0s6i.indcuan.cfd/sitemap.xml
